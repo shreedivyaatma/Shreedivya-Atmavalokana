@@ -138,7 +138,7 @@ export default function Header({ onBookClick, onIntrospectClick }: HeaderProps) 
               className="text-left text-sm font-medium text-lavender-brand/90 hover:text-gold-muted py-2 flex items-center space-x-2 transition-colors border-b border-violet-royal/10"
             >
               <Moon className="w-4 h-4 text-gold-muted" />
-              <span>Atma Introspection Guide</span>
+              <span>Atmavalokana Introspection Guide</span>
             </button>
             <button
               onClick={() => scrollToSection("faq")}

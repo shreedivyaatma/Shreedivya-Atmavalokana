@@ -1,12 +1,12 @@
 import { Modality, ServiceOffer, Testimonial } from "./types";
 
 export const BRAND_INFO = {
-  name: "Atma Avalokana",
+  name: "Atmavalokana",
   tagline: "Divine Self & Soul Introspection",
   subtitle: "Practical Spirituality. Root-Cause Healing. Uncompromising Clarity.",
   guideName: "Shreedivya",
   bioHeader: "@divya.atmavalokana",
-  shortBio: "Atma Avalokana — divine self / soul introspection. Helping you find clarity through Tarot, Karmic Blueprint, Hypnotherapy, Past Life Regression, and Inner Child & Ancestral Healing.",
+  shortBio: "Atmavalokana — divine self / soul introspection. Helping you find clarity through Tarot, Karmic Blueprint, Hypnotherapy, Past Life Regression, and Inner Child & Ancestral Healing.",
   vision: "To help people find clarity, healing and purpose — while making spirituality practical, approachable and trustworthy.",
   mission: "Make spirituality practical and approachable, guiding people to root-cause clarity, not predictions.",
   quote: "I am nothing. It is the divine working through me.",

@@ -78,7 +78,7 @@ async function startServer() {
         practice: "Somatic Introspection: Lay down comfortably. Place one hand on your belly and another on your forehead. Breathe slowly, sending warm lavender light to the area of physical tension. Ask it: 'What truth are you trying to tell me?' Listen without judgment."
       },
       Purpose: {
-        reflection: "Your soul's purpose is not a destination or a single job title—it is the state of alignment with which you meet each present moment. When you feel lost or disconnected, it is simply your inner self calling you back home to Atma Avalokana (soul introspection).",
+        reflection: "Your soul's purpose is not a destination or a single job title—it is the state of alignment with which you meet each present moment. When you feel lost or disconnected, it is simply your inner self calling you back home to Atmavalokana (soul introspection).",
         questions: [
           "What activities or conversations make me forget about time and feel a deep sense of calm alignment?",
           "What fear is telling me that my quiet, natural self is not 'enough' to make a meaningful impact?",
@@ -110,7 +110,7 @@ async function startServer() {
       });
 
       // Construct a premium system instruction that strictly models Shreedivya's brand identity, voice and language guidelines!
-      const systemInstruction = `You are the digital spiritual guidance advisor representing Shreedivya, a professional Spiritual Guide and teacher of the "Atma Avalokana" (soul introspection) brand.
+      const systemInstruction = `You are the digital spiritual guidance advisor representing Shreedivya, a professional Spiritual Guide and teacher of the "Atmavalokana" (soul introspection) brand.
 Your brand values are: Calm, honest, premium, hopeful, and compassionate.
 Your tone of voice guidelines:
 - You-centric, always. Focus on the reader's patterns, their clarity, and their next step.

@@ -76,7 +76,7 @@ export default function AboutJourney() {
             {/* Quick Profile Bio Highlight */}
             <div className="p-5 rounded-2xl bg-gradient-to-tr from-violet-royal/5 to-gold-muted/5 border border-violet-royal/10 text-center">
               <span className="text-2xl block mb-2">🕉️</span>
-              <span className="text-xs font-bold text-violet-deep block">Atma Avalokana</span>
+              <span className="text-xs font-bold text-violet-deep block">Atmavalokana</span>
               <p className="text-[10px] text-gray-500 font-mono italic mt-1">&ldquo;Divine self / soul introspection&rdquo;</p>
             </div>
           </div>

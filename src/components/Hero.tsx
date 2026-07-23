@@ -49,8 +49,8 @@ export default function Hero({ onBookClick, onIntrospectClick }: HeroProps) {
               Uncover the <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-muted via-lavender-brand to-white">Root Cause</span> of Your Life Patterns
             </h1>
             
-            <p className="text-base sm:text-lg text-lavender-brand/85 max-w-xl mx-auto lg:mx-0 font-light leading-relaxed">
-              &ldquo;I am here to guide you &mdash; not here to predict your future.&rdquo; Experience practical, trustworthy spirituality through Tarot, Karmic Blueprints, and Deep Ancestral Realignment.
+            <p className="text-base sm:text-lg text-lavender-brand/85 max-w-2xl mx-auto lg:mx-0 font-light leading-relaxed">
+              I just don&apos;t offer past wisdom or future possibilities. Together, we uncover your soul&apos;s journey, heal what no longer serves you, and consciously create the life you are meant to live.
             </p>
 
             {/* Quick USP Highlights */}

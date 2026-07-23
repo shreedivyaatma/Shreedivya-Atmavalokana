@@ -120,7 +120,7 @@ export default function IntrospectionTool() {
             <span>Interactive Guide</span>
           </div>
           <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-bold mt-3 text-violet-deep">
-            Atma Avalokana Introspection Tool
+            Atmavalokana Introspection Tool
           </h2>
           <p className="text-gray-500 text-sm sm:text-base font-light mt-4">
             Input a repeating cycle or current concern. Shreedivya&apos;s digital guidance assistant, powered by server-side Gemini, will gently guide you to root-cause awareness.

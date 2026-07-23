@@ -117,7 +117,7 @@ export default function Footer() {
           <div className="p-4 rounded-xl bg-violet-deep border border-violet-royal/20 flex items-start space-x-3 text-[10px] text-lavender-brand/60 leading-relaxed font-light">
             <ShieldAlert className="w-5 h-5 text-gold-muted shrink-0 mt-0.5" />
             <p>
-              <strong>Healing Disclaimer:</strong> Atma Avalokana spiritual consultations, tarot readings, ancestral healing sessions, and hypnotherapy exercises are designed for therapeutic and spiritual self-discovery purposes. They are supportive in nature and do not claim to replace expert medical diagnoses, psychiatric counsel, or physical healthcare regimes. We do not predict timelines or make absolute destiny promises.
+              <strong>Healing Disclaimer:</strong> Atmavalokana spiritual consultations, tarot readings, ancestral healing sessions, and hypnotherapy exercises are designed for therapeutic and spiritual self-discovery purposes. They are supportive in nature and do not claim to replace expert medical diagnoses, psychiatric counsel, or physical healthcare regimes. We do not predict timelines or make absolute destiny promises.
             </p>
           </div>
 
@@ -126,7 +126,7 @@ export default function Footer() {
             <p className="flex items-center space-x-1">
               <span>Prepared by Shreya (Brand Manager)</span>
               <span className="text-gold-muted font-bold">•</span>
-              <span>Atma Avalokana Brand Guide 2026</span>
+              <span>Atmavalokana Brand Guide 2026</span>
               <span className="text-gold-muted font-bold">•</span>
               <Heart className="w-3 h-3 text-gold-muted fill-gold-muted shrink-0" />
             </p>
